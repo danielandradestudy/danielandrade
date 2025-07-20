@@ -1,6 +1,27 @@
-# Olá, Eu sou um eterno estudante de tecnologia! 🚀
+<h1 align="left">Olá 👋</h1>
 
-* 💻 Atualmente eu sou um autônomo tentando entrar na área, dou consultoria de hardware via acesso remoto e indico as melhoes praticas para resoluções de problemas!  
+###
 
+<p align="left"> Sou Daniel Andrade! ... and I'm a eternal tech study!....</p>
 
-                       ~Esse perfil é só uma breve introdução, logo mais subirei os meus projetos!~ 
+###
+
+<h2 align="left">Sobre mim</h2>
+
+###
+
+<p align="left">✨ Eu não sou um dev, então você não vai ver muita coisa por aqui relacionada a esse universo... Porém eu gosto de brincar com alguns scripts e postar dicas!  </p>
+
+###
+
+<h2 align="left">As ferramentas que eu uso no dia a dia: </h2>
+
+###
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,windows,linux,vscode,py,mysql" />
+  </a>
+</p>
+
+###
