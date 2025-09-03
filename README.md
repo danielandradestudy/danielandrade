@@ -32,7 +32,7 @@ Estou sempre explorando novas áreas, mas atualmente meus olhos estão voltados 
 
 Adoraria trocar ideias e aprender com você!
 
-* **LinkedIn:** [https://www.linkedin.com/in/daniel-tech-/]
+* **LinkedIn:** https://www.linkedin.com/in/daniel-tech-/
 
 
 ###
