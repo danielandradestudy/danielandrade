@@ -22,9 +22,9 @@ Este espaço é meu canto para compartilhar:
 
 Estou sempre explorando novas áreas, mas atualmente meus olhos estão voltados para:
 
-* **Automação:** [Ex: automação de tarefas repetitivas, scripts para gerenciamento de arquivos].
-* **Cloud Computing:** [Ex: conceitos básicos de AWS/Azure, entender serviços].
-* **Produtividade Digital:** [Ex: ferramentas e métodos para otimizar o trabalho e estudo].
+* **Automação:** [Ex: automação de tarefas repetitivas, scripts para gerenciamento de arquivos.
+* **Cloud Computing:** Ex: conceitos básicos de AWS/Azure, entender serviços].
+* **Produtividade Digital:** Ex: ferramentas e métodos para otimizar o trabalho e estudo.
 
 ---
 
