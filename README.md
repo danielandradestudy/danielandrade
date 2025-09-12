@@ -1,5 +1,4 @@
-# Olá 👋 Sou Daniel Andrade! Sua Conexão para Dicas e Scripts de Tecnologia
-
+# Olá 👋 Sou Daniel Andrade! 
 ---
 
 ## 👨‍💻 Sobre Mim
